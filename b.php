@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Belanja Online</title>
-<meta http-equiv="refresh" content="0;URL='https://shp.ee/njetdjp'" />
+<meta http-equiv="refresh" content="0;URL='https://shp.ee/65ee3mb'" />
 </head>
 <body>
 <!-- Histats.com  START  (aync)-->
